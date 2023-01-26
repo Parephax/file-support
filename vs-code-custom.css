@@ -1,0 +1,33 @@
+.split-view-container {
+   font-family: 'JetBrains Mono', Bedstead, Consolas, monospace !important;
+}
+
+.split-view-view>.titlebar {
+   font-family: 'JetBrains Mono', Bedstead, Consolas, monospace !important;
+}
+
+.split-view-view>.sidebar>.content>.viewlet {
+   font-family: 'JetBrains Mono', Bedstead, Consolas, monospace !important;
+}
+
+.split-view-view>.sidebar>.title>.title-label>h2 {
+   font-family: 'JetBrains Mono', Bedstead, Consolas, monospace !important;
+   font-weight: bold;
+   font-size: 14px;
+}
+
+.split-view-view>.editor {
+   font-family: 'JetBrains Mono', Bedstead, Consolas, monospace !important;
+}
+
+.split-view-view>.statusbar {
+   font-family: 'JetBrains Mono', Bedstead, Consolas, monospace !important;
+}
+
+.split-view-view>.basepanel {
+   font-family: 'JetBrains Mono', Bedstead, Consolas, monospace !important;
+}
+
+.context-view {
+   font-family: 'JetBrains Mono', Bedstead, Consolas, monospace !important;
+}
